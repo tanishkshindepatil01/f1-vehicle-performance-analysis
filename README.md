@@ -23,6 +23,3 @@ The race analysis is observational. Tyre compound, weather, fuel load and traffi
 
 Download the [packaged workbook](F1_Vehicle_Performance_Dashboards.twbx) and open it in Tableau Desktop. The workbook was built in Tableau Desktop 2026.2.3 and includes the CSV used by the dashboards.
 
-## Run the analysis
-
-Use Python 3.12 and follow the environment setup in the first section of the notebook. Open it in JupyterLab, select the Python kernel for that environment, and run the cells in order. The saved plots and tables are included. The notebook defaults to the embedded historical snapshot of public timing, telemetry and weather, with seed 42. [OpenF1 API documentation](https://openf1.org/docs/)
